@@ -5,7 +5,7 @@
 // @description Hack to fix dark mode for JSON formatter extension. 
 // @author Mosrur
 // @include /^http(s)?\:\/\/.*\.json(\?\=.*\b)?$
-// @grant none
+// @grant GM_addStyle
 // ==/UserScript==
 
 (function() {
